@@ -19,4 +19,8 @@ Our vision is to **eliminate coupon fraud**, make rewards **easily transferable*
 - Integration with **loyalty programs** for repeat customers.
 - **Mobile App** for coupon storage, scanning, and redemption tracking.
 
-## 📜 Contract Address
+## 📜 Contract 
+<img width="2560" height="1504" alt="image" src="https://github.com/user-attachments/assets/637f7425-f863-4b15-b2e6-3b361bb8c930" />
+
+
+Contract Address: ST1CD1S9YQSS5PPXGXYFWYSVPKCH3PETTQYWS143M.qr-code-coupon-nfts
